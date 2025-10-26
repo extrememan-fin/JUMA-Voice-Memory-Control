@@ -128,7 +128,7 @@ xattr -dr com.apple.quarantine "JUMA Voice Memory Controller.app"
 
 ### macOS
 ![JUMA Voice Memory Controller on macOS](juma_voice_memory_controller.png)
-
+![JUMA Voice Memory Controller on macOS](juma_voice_memory_controller_dark.png)
 ---
 ## 🏁 Credits
 
