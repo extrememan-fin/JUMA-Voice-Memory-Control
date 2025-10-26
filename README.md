@@ -103,13 +103,13 @@ dist/JUMA Voice Memory Controller.exe
 ```
 JUMA_Voice_Memory_Controller/
 │
-├── juma_voice_memory_controller.py
-├── icon.icns / icon.ico
-├── README.md
+├── juma_voice_memory_controller.py   # Main application source
+├── icon.icns / icon.ico              # App icons for macOS & Windows
+├── README.md                         # Documentation
+├── LICENSE                           # MIT License
+├── requirements.txt                  # Python dependencies
 │
-├── dist/      # Build output
-├── build/     # Temporary build files
-└── dmg_src/   # DMG source folder
+└── (build/ , dist/ , dmg_src/ created automatically when building)
 ```
 
 ---
