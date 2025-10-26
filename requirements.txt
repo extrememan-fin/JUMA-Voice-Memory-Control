@@ -1,0 +1,6 @@
+# Runtime dependencies for JUMA Voice Memory Controller
+# Install with:  pip install -r requirements.txt
+
+customtkinter>=5.2,<6
+pyserial>=3.5
+darkdetect>=0.8
